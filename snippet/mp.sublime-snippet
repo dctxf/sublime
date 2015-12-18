@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<meta name="keywords" content="${1:关键字}">
+<meta name="description" content="${2:网站描述}">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<link rel="shortcut icon" href="${3:favicon.ico}">
+<link rel="Bookmark" href="${4:favicon.ico}" />
+<link rel="apple-touch-icon" href="${5:favicon.ico}"/> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
